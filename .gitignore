@@ -1,3 +1,6 @@
 gm-program/node_modules/
 gm-program/target/
 gm-program/test-ledger
+token-contract/test-ledger
+token-contract/node_modules/
+token-contract/target/
